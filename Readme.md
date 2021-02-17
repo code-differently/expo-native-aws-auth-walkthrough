@@ -1,4 +1,5 @@
 # Complete Guide to AWS Amplify and React Native
+# Part 1
 
 ### Let’s Build an E-commerce App with ReactNative and Amplify
 
@@ -6,10 +7,6 @@
 1. Introduction
 2. Setting Up the Project
 3. Adding Cognito Authentication
-4. Adding AppSync API
-5. Adding S3 Storage
-6. Retrieving AppSync Data
-7. Conclusion
 
 ## 01 Introduction
 
